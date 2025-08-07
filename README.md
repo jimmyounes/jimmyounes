@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Younes. I graduated from Université Paris-Saclay with a Master's degree in Computer Science, specializing in Data. I'm currently working at Eskim</h1>
+<h1 align="center">Hi 👋, I'm Younes. I graduated from Université Paris-Saclay with a Master's degree in Computer Science, specializing in Data. I'm currently working at Eskimoz</h1>
 <h3 align="center">🔥 Passionate about data science, machine learning, deep learning,software developpement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmyounes&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyounes" /> </p>
